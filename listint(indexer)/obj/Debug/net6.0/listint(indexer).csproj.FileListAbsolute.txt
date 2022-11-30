@@ -1,0 +1,15 @@
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\bin\Debug\net6.0\listint(indexer).exe
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\bin\Debug\net6.0\listint(indexer).deps.json
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\bin\Debug\net6.0\listint(indexer).runtimeconfig.json
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\bin\Debug\net6.0\listint(indexer).dll
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\bin\Debug\net6.0\listint(indexer).pdb
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).csproj.AssemblyReference.cache
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).AssemblyInfoInputs.cache
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).AssemblyInfo.cs
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).csproj.CoreCompileInputs.cache
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).dll
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\refint\listint(indexer).dll
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).pdb
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\listint(indexer).genruntimeconfig.cache
+C:\Users\Fateh\Desktop\C#\listint(indexer)\listint(indexer)\obj\Debug\net6.0\ref\listint(indexer).dll
